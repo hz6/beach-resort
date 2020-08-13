@@ -1,8 +1,8 @@
-# beach-resort
+# Beach-resort
 This is a static web application created using react
 
-# description
+# Description
 Users the can search for rooms that matches their requirement.
 
-# search parameters
+# Search parameters
 Capacity, Breakfast, Pets allowed etc...
